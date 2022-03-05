@@ -1,0 +1,418 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="I576.34863.schedulesdirect.org" tvg-name="Afizzionados (Mexico)" tvg-logo="https://pbs.twimg.com/profile_images/1315369786906468354/7PjFLwZP_400x400.jpg" group-title="DEPORTES",Afizzionados (Mexico)
+http://directo.ddns.me:33200/800yt/202020/14718
+
+#EXTINF:-1 tvg-id="I69.85437.schedulesdirect.org" tvg-name="Bar TV La Liga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="DEPORTES",Bar TV La Liga
+http://directo.ddns.me:33200/800yt/202020/6854
+
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="Bein Sports La Liga (España)" tvg-logo="https://i.postimg.cc/05nYKLDg/bein-nor.jpg" group-title="DEPORTES",Bein Sports La Liga (España)
+http://directo.ddns.me:33200/800yt/202020/3419
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Ñ" tvg-logo="https://i.postimg.cc/65QdrYf8/bein-es.jpg" group-title="DEPORTES",Bein Sports Ñ
+http://directo.ddns.me:33200/800yt/202020/3061
+
+#EXTINF:-1 tvg-id="I896.69306.schedulesdirect.org" tvg-name="TNT Sports Estadio Chile" tvg-logo="https://i.postimg.cc/TYcM53Yj/TNHD.png" group-title="DEPORTES",TNT Sports Estadio Chile http://directo.ddns.me:33200/800yt/202020/31728
+
+#EXTINF:-1 tvg-id="I896.69306.schedulesdirect.org" tvg-name="TNT Estadio 2 " tvg-logo="https://i.postimg.cc/fThQS34y/TNes.png" group-title="DEPORTES",TNT Estadio 2 
+http://directo.ddns.me:33200/800yt/202020/50076
+
+#EXTINF:-1 tvg-id="I896.69306.schedulesdirect.org" tvg-name="TNT Sports HD Chile" tvg-logo="https://i.postimg.cc/TYcM53Yj/TNHD.png" group-title="DEPORTES",TNT Sports HD Chile http://directo.ddns.me:33200/800yt/202020/31758
+
+#EXTINF:-1 tvg-id="I896.69306.schedulesdirect.org" tvg-name="TNT SPORTS  (MOVIL)" tvg-logo="https://i.postimg.cc/TYcM53Yj/TNHD.png" group-title="DEPORTES",TNT SPORTS  (MOVIL)
+http://directo.ddns.me:33200/800yt/202020/48888
+
+#EXTINF:-1 tvg-id="I486.46744.schedulesdirect.org" tvg-name="TNT Sports 2 Chile" tvg-logo="https://i.postimg.cc/RZPkGptN/TN2.png" group-title="DEPORTES",TNT Sports 2 Chile
+http://directo.ddns.me:33200/800yt/202020/31757
+
+#EXTINF:-1 tvg-id="I484.50707.schedulesdirect.org" tvg-name="TNT Sports 3 Chile" tvg-logo="https://i.postimg.cc/R0NjY11G/TN3.png" group-title="DEPORTES",TNT Sports 3 Chile
+http://directo.ddns.me:33200/800yt/202020/31756
+
+#EXTINF:-1 tvg-id="I101.79664.schedulesdirect.org" tvg-name="Claro Sports" tvg-logo="https://i.ibb.co/YTYgjGx/d.png" group-title="DEPORTES",Claro Sports
+http://directo.ddns.me:33200/800yt/202020/39993
+
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports HD" tvg-logo="https://i.ibb.co/YTYgjGx/d.png" group-title="DEPORTES",Claro Sports HD
+http://directo.ddns.me:33200/800yt/202020/39994
+
+#EXTINF:-1 tvg-id="I611.107891.schedulesdirect.org" tvg-name="DirectTV SP " tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="DEPORTES",DirectTV SP 
+http://directo.ddns.me:33200/800yt/202020/47580
+
+#EXTINF:-1 tvg-id="I611.107891.schedulesdirect.org" tvg-name="DirectTV SP HD" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="DEPORTES",DirectTV SP HD
+http://directo.ddns.me:33200/800yt/202020/31759
+
+#EXTINF:-1 tvg-id="I611.107891.schedulesdirect.org" tvg-name="DirectTV SP FHD" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="DEPORTES",DirectTV SP FHD
+http://directo.ddns.me:33200/800yt/202020/33608
+
+#EXTINF:-1 tvg-id="I1613.107456.schedulesdirect.org" tvg-name="DirectTV SP +" tvg-logo="https://i.postimg.cc/3J0QRgcj/D.png" group-title="DEPORTES",DirectTV SP +
+http://directo.ddns.me:33200/800yt/202020/31761
+
+#EXTINF:-1 tvg-id="I1613.107456.schedulesdirect.org" tvg-name="DirectTV SP + HD" tvg-logo="https://i.postimg.cc/3J0QRgcj/D.png" group-title="DEPORTES",DirectTV SP + HD
+http://directo.ddns.me:33200/800yt/202020/32680
+
+#EXTINF:-1 tvg-id="I1612.106261.schedulesdirect.org" tvg-name="DirectTV SP 2" tvg-logo="https://i.postimg.cc/Wbkwt36q/D2.png" group-title="DEPORTES",DirectTV SP 2
+http://directo.ddns.me:33200/800yt/202020/31760
+
+#EXTINF:-1 tvg-id="I1612.106261.schedulesdirect.org" tvg-name="DirectTV SP 2 HD" tvg-logo="https://i.postimg.cc/Wbkwt36q/D2.png" group-title="DEPORTES",DirectTV SP 2 HD
+http://directo.ddns.me:33200/800yt/202020/37484
+
+#EXTINF:-1 tvg-id="I1612.106261.schedulesdirect.org" tvg-name="DirectTV SP 2 FHD" tvg-logo="https://i.postimg.cc/Wbkwt36q/D2.png" group-title="DEPORTES",DirectTV SP 2 FHD
+http://directo.ddns.me:33200/800yt/202020/37485
+
+#EXTINF:-1 tvg-id="I1621.17725.schedulesdirect.org" tvg-name="ESPN 1 Argentina" tvg-logo="https://i.postimg.cc/3wGdsjwD/espn.png" group-title="DEPORTES",ESPN 1 Argentina
+http://directo.ddns.me:33200/800yt/202020/5599
+
+#EXTINF:-1 tvg-id="I1621.17725.schedulesdirect.org" tvg-name="ESPN 1 Argentina HD" tvg-logo="https://i.postimg.cc/3wGdsjwD/espn.png" group-title="DEPORTES",ESPN 1 Argentina HD
+http://directo.ddns.me:33200/800yt/202020/31013
+
+#EXTINF:-1 tvg-id="I102.88735.schedulesdirect.org" tvg-name="ESPN 2 Argentina " tvg-logo="https://i.postimg.cc/DZK8nWWp/espn2.png" group-title="DEPORTES",ESPN 2 Argentina 
+http://directo.ddns.me:33200/800yt/202020/28777
+
+#EXTINF:-1 tvg-id="I102.88735.schedulesdirect.org" tvg-name="ESPN 2 Argentina HD" tvg-logo="https://i.postimg.cc/DZK8nWWp/espn2.png" group-title="DEPORTES",ESPN 2 Argentina HD
+http://directo.ddns.me:33200/800yt/202020/47855
+
+#EXTINF:-1 tvg-id="I102.88735.schedulesdirect.org" tvg-name="ESPN 2 Argentina FHD" tvg-logo="https://i.postimg.cc/DZK8nWWp/espn2.png" group-title="DEPORTES",ESPN 2 Argentina FHD
+http://directo.ddns.me:33200/800yt/202020/5600
+
+#EXTINF:-1 tvg-id="I103.73833.schedulesdirect.org" tvg-name="ESPN 3 Argentina" tvg-logo="https://i.postimg.cc/wvc3v6Lq/espn3.png" group-title="DEPORTES",ESPN 3 Argentina
+http://directo.ddns.me:33200/800yt/202020/5601
+
+#EXTINF:-1 tvg-id="I103.73833.schedulesdirect.org" tvg-name="ESPN 3 Argentina HD" tvg-logo="https://i.postimg.cc/wvc3v6Lq/espn3.png" group-title="DEPORTES",ESPN 3 Argentina HD
+http://directo.ddns.me:33200/800yt/202020/31026
+
+#EXTINF:-1 tvg-id="I103.73833.schedulesdirect.org" tvg-name="ESPN 3 Argentina FHD" tvg-logo="https://i.postimg.cc/wvc3v6Lq/espn3.png" group-title="DEPORTES",ESPN 3 Argentina FHD
+http://directo.ddns.me:33200/800yt/202020/31027
+
+#EXTINF:-1 tvg-id="I604.30392.schedulesdirect.org" tvg-name="ESPN 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQseqN077OSl3CuhCzZfeRgZF2VVLpP1OekOw&usqp=CAU" group-title="DEPORTES",ESPN 4
+http://directo.ddns.me:33200/800yt/202020/50373
+
+#EXTINF:-1 tvg-id="I604.30392.schedulesdirect.org" tvg-name="ESPN 4 HD" tvg-logo="https://futbolfullenvivo.com/logos/espn4.png" group-title="DEPORTES",ESPN 4 HD
+http://directo.ddns.me:33200/800yt/202020/50372
+
+#EXTINF:-1 tvg-id="" tvg-name="Espn Chile" tvg-logo="https://i.postimg.cc/3wGdsjwD/espn.png" group-title="DEPORTES",Espn Chile
+http://directo.ddns.me:33200/800yt/202020/50968
+
+#EXTINF:-1 tvg-id="ESPNChile.us" tvg-name="ESPN Chile HD" tvg-logo="https://i.postimg.cc/3wGdsjwD/espn.png" group-title="DEPORTES",ESPN Chile HD
+http://directo.ddns.me:33200/800yt/202020/7026
+
+#EXTINF:-1 tvg-id="I1623.17725.schedulesdirect.org" tvg-name="ESPN 2 Colombia " tvg-logo="https://i.postimg.cc/DZK8nWWp/espn2.png" group-title="DEPORTES",ESPN 2 Colombia 
+http://directo.ddns.me:33200/800yt/202020/33028
+
+#EXTINF:-1 tvg-id="I1620.96876.schedulesdirect.org" tvg-name="ESPN 1 Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN 1 Latino
+http://directo.ddns.me:33200/800yt/202020/7023
+
+#EXTINF:-1 tvg-id="I621.10180.schedulesdirect.org" tvg-name="ESPN 1 Latino HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN 1 Latino HD
+http://directo.ddns.me:33200/800yt/202020/3073
+
+#EXTINF:-1 tvg-id="I621.10180.schedulesdirect.org" tvg-name="ESPN 1 Latino FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN 1 Latino FHD
+http://directo.ddns.me:33200/800yt/202020/3074
+
+#EXTINF:-1 tvg-id="I1623.67765.schedulesdirect.org" tvg-name="ESPN 2 Latino" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="DEPORTES",ESPN 2 Latino
+http://directo.ddns.me:33200/800yt/202020/7024
+
+#EXTINF:-1 tvg-id="I1623.67765.schedulesdirect.org" tvg-name="ESPN 2 Latino HD" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="DEPORTES",ESPN 2 Latino HD
+http://directo.ddns.me:33200/800yt/202020/3075
+
+#EXTINF:-1 tvg-id="I1623.67765.schedulesdirect.org" tvg-name="ESPN 2 Latino FHD" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="DEPORTES",ESPN 2 Latino FHD
+http://directo.ddns.me:33200/800yt/202020/3076
+
+#EXTINF:-1 tvg-id="I1626.73834.schedulesdirect.org" tvg-name="ESPN 3 Latino" tvg-logo="http://dshm.tmsimg.com/h3/NowShowing/73833/s73833_h3_aa.png" group-title="DEPORTES",ESPN 3 Latino
+http://directo.ddns.me:33200/800yt/202020/7025
+
+#EXTINF:-1 tvg-id="I626.73833.schedulesdirect.org" tvg-name="ESPN 3 Latino HD" tvg-logo="http://dshm.tmsimg.com/h3/NowShowing/73833/s73833_h3_aa.png" group-title="DEPORTES",ESPN 3 Latino HD
+http://directo.ddns.me:33200/800yt/202020/3077
+
+#EXTINF:-1 tvg-id="I626.73833.schedulesdirect.org" tvg-name="ESPN 3 Latino FHD" tvg-logo="http://dshm.tmsimg.com/h3/NowShowing/73833/s73833_h3_aa.png" group-title="DEPORTES",ESPN 3 Latino FHD
+http://directo.ddns.me:33200/800yt/202020/3078
+
+#EXTINF:-1 tvg-id="I1621.17725.schedulesdirect.org" tvg-name="ESPN+ Latino HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="DEPORTES",ESPN+ Latino HD
+http://directo.ddns.me:33200/800yt/202020/3079
+
+#EXTINF:-1 tvg-id="I1621.17725.schedulesdirect.org" tvg-name="ESPN+ Latino FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="DEPORTES",ESPN+ Latino FHD
+http://directo.ddns.me:33200/800yt/202020/3080
+
+#EXTINF:-1 tvg-id="" tvg-name="Espn Extra" tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="DEPORTES",Espn Extra
+http://directo.ddns.me:33200/800yt/202020/50010
+
+#EXTINF:-1 tvg-id="I100.91198.schedulesdirect.org" tvg-name="Eurosport 1" tvg-logo="http://vfes-images.ott.kaltura.com/8aeaa386a67e475689adffe039736bf3_288X162.png" group-title="DEPORTES",Eurosport 1
+http://directo.ddns.me:33200/800yt/202020/3423
+
+#EXTINF:-1 tvg-id="I100.91198.schedulesdirect.org" tvg-name="Eurosport 1 HD" tvg-logo="http://vfes-images.ott.kaltura.com/8aeaa386a67e475689adffe039736bf3_288X162.png" group-title="DEPORTES",Eurosport 1 HD
+http://directo.ddns.me:33200/800yt/202020/30813
+
+#EXTINF:-1 tvg-id="I62.108370.schedulesdirect.org" tvg-name="Eurosport 2" tvg-logo="http://vfes-images.ott.kaltura.com/351be6f3a78f44b6b4673c0b3e3ad570_288X162.png" group-title="DEPORTES",Eurosport 2
+http://directo.ddns.me:33200/800yt/202020/3424
+
+#EXTINF:-1 tvg-id="I605.30392.schedulesdirect.org" tvg-name="Fox Sports 1 Argentina " tvg-logo="https://i.postimg.cc/G3jHnJkZ/f1ar.png" group-title="DEPORTES",Fox Sports 1 Argentina 
+http://directo.ddns.me:33200/800yt/202020/3082
+
+#EXTINF:-1 tvg-id="I605.30392.schedulesdirect.org" tvg-name="Fox Sports 1 Argentina HD " tvg-logo="https://i.postimg.cc/G3jHnJkZ/f1ar.png" group-title="DEPORTES",Fox Sports 1 Argentina HD 
+http://directo.ddns.me:33200/800yt/202020/30935
+
+#EXTINF:-1 tvg-id="FoxSports1Chile.us" tvg-name="Fox Sports 1 Chile " tvg-logo="https://i.postimg.cc/L6zvpWym/SP-CH1.png" group-title="DEPORTES",Fox Sports 1 Chile 
+http://directo.ddns.me:33200/800yt/202020/3086
+
+#EXTINF:-1 tvg-id="I1.24519.schedulesdirect.org" tvg-name="Fox Sports 1 Latino " tvg-logo="https://i.postimg.cc/5NNj4Ygj/f1lat.png" group-title="DEPORTES",Fox Sports 1 Latino 
+http://directo.ddns.me:33200/800yt/202020/3087
+
+#EXTINF:-1 tvg-id="I1.24519.schedulesdirect.org" tvg-name="Fox Sports 1 Latino FHD" tvg-logo="https://i.postimg.cc/5NNj4Ygj/f1lat.png" group-title="DEPORTES",Fox Sports 1 Latino FHD
+http://directo.ddns.me:33200/800yt/202020/3088
+
+#EXTINF:-1 tvg-id="I608.105404.schedulesdirect.org" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://i.postimg.cc/FsW-z7rCp/f2ar.png" group-title="DEPORTES",Fox Sports 2 Argentina
+http://directo.ddns.me:33200/800yt/202020/37134
+
+#EXTINF:-1 tvg-id="I608.105404.schedulesdirect.org" tvg-name="Fox Sports 2 Argentina HD" tvg-logo="https://i.postimg.cc/FsW-z7rCp/f2ar.png" group-title="DEPORTES",Fox Sports 2 Argentina HD
+http://directo.ddns.me:33200/800yt/202020/3083
+
+#EXTINF:-1 tvg-id="I608.105404.schedulesdirect.org" tvg-name="Fox Sports 2 Latino " tvg-logo="https://i.postimg.cc/kg24S0km/f2lat.png" group-title="DEPORTES",Fox Sports 2 Latino 
+http://directo.ddns.me:33200/800yt/202020/3089
+
+#EXTINF:-1 tvg-id="I608.105404.schedulesdirect.org" tvg-name="Fox Sports 2 Latino HD" tvg-logo="https://i.postimg.cc/kg24S0km/f2lat.png" group-title="DEPORTES",Fox Sports 2 Latino HD
+http://directo.ddns.me:33200/800yt/202020/3090
+
+#EXTINF:-1 tvg-id="I609.47374.schedulesdirect.org" tvg-name="Fox Sports 3 Argentina HD" tvg-logo="https://i.postimg.cc/bvbwCQyV/f3ar.png" group-title="DEPORTES",Fox Sports 3 Argentina HD
+http://directo.ddns.me:33200/800yt/202020/3084
+
+#EXTINF:-1 tvg-id="I609.47374.schedulesdirect.org" tvg-name="Fox Sports 3 Latino " tvg-logo="https://i.postimg.cc/DwRzPCTb/f3lat.png" group-title="DEPORTES",Fox Sports 3 Latino 
+http://directo.ddns.me:33200/800yt/202020/3091
+
+#EXTINF:-1 tvg-id="I609.47374.schedulesdirect.org" tvg-name="Fox Sports 3 Latino HD" tvg-logo="https://i.postimg.cc/DwRzPCTb/f3lat.png" group-title="DEPORTES",Fox Sports 3 Latino HD
+http://directo.ddns.me:33200/800yt/202020/3092
+
+#EXTINF:-1 tvg-id="I1.24519.schedulesdirect.org" tvg-name="Fox Sports México HD" tvg-logo="https://i.postimg.cc/g0VFfsf5/fsmx.png" group-title="DEPORTES",Fox Sports México HD
+http://directo.ddns.me:33200/800yt/202020/5616
+
+#EXTINF:-1 tvg-id="I604.30262.schedulesdirect.org" tvg-name="Fox Sports Premium Argentina" tvg-logo="https://i.postimg.cc/W13Wdj4t/premar.png" group-title="DEPORTES",Fox Sports Premium Argentina
+http://directo.ddns.me:33200/800yt/202020/6463
+
+#EXTINF:-1 tvg-id="I604.30262.schedulesdirect.org" tvg-name="Fox Sports Premium Argentina HD" tvg-logo="https://i.postimg.cc/W13Wdj4t/premar.png" group-title="DEPORTES",Fox Sports Premium Argentina HD
+http://directo.ddns.me:33200/800yt/202020/3085
+
+#EXTINF:-1 tvg-id="" tvg-name="Gol Peru" tvg-logo="https://2.bp.blogspot.com/-usJcxF6gJIg/WUVrMywkyzI/AAAAAAAAAi8/DV9fYjhJyKM5Qzd_HIJQKZ1aB-BXRi6CQCLcBGAs/s1600/gol%2Bperu.jpg" group-title="DEPORTES",Gol Peru
+http://directo.ddns.me:33200/800yt/202020/14029
+
+#EXTINF:-1 tvg-id="" tvg-name="Gol Peru HD" tvg-logo="https://2.bp.blogspot.com/-usJcxF6gJIg/WUVrMywkyzI/AAAAAAAAAi8/DV9fYjhJyKM5Qzd_HIJQKZ1aB-BXRi6CQCLcBGAs/s1600/gol%2Bperu.jpg" group-title="DEPORTES",Gol Peru HD
+http://directo.ddns.me:33200/800yt/202020/3098
+
+#EXTINF:-1 tvg-id="" tvg-name="GolTV Ecuador HD" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/GolTV.JPG" group-title="DEPORTES",GolTV Ecuador HD
+http://directo.ddns.me:33200/800yt/202020/3095
+
+#EXTINF:-1 tvg-id="" tvg-name="GolTV Internacional" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/GolTV.JPG" group-title="DEPORTES",GolTV Internacional
+http://directo.ddns.me:33200/800yt/202020/6766
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES",Movistar Deportes Peru
+http://directo.ddns.me:33200/800yt/202020/3100
+
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="Movistar Deportes Peru (Op.2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES",Movistar Deportes Peru (Op.2)
+http://directo.ddns.me:33200/800yt/202020/3102
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Futbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES",Movistar Futbol
+http://directo.ddns.me:33200/800yt/202020/30360
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar La Liga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES",Movistar La Liga
+http://directo.ddns.me:33200/800yt/202020/50584
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga De Campeones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES",Movistar Liga De Campeones
+http://directo.ddns.me:33200/800yt/202020/49752
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga De Campeones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES",Movistar Liga De Campeones HD
+http://directo.ddns.me:33200/800yt/202020/49753
+
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Pista" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU383awB0057fvQWc9i5AzE7leRRMQ-rFRHw&usqp=CAU" group-title="DEPORTES",Mundo Pista
+http://directo.ddns.me:33200/800yt/202020/30630
+
+#EXTINF:-1 tvg-id="" tvg-name="Sporting Club Chile" tvg-logo="https://media.licdn.com/dms/image/C560BAQEMbVBwIAFpqA/company-logo_200_200/0?e=2159024400&v=beta&t=WIFFwrGlCuS3rLWj9Ai3JaogcqpEWmgDv1NQVtq7zVY" group-title="DEPORTES",Sporting Club Chile
+https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY Sports" tvg-logo="https://deportesinc.com/depsite/wp-content/uploads/2017/01/Sky-Sports-Logos-CMYK.png" group-title="DEPORTES",SKY Sports
+http://directo.ddns.me:33200/800yt/202020/49186
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY Sports Liga España" tvg-logo="https://deportesinc.com/depsite/wp-content/uploads/2017/01/Sky-Sports-Logos-CMYK.png" group-title="DEPORTES",SKY Sports Liga España
+http://directo.ddns.me:33200/800yt/202020/49612
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY Sports Liga Inglesa" tvg-logo="https://deportesinc.com/depsite/wp-content/uploads/2017/01/Sky-Sports-Logos-CMYK.png" group-title="DEPORTES",SKY Sports Liga Inglesa
+http://directo.ddns.me:33200/800yt/202020/49613
+
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="Sportv " tvg-logo="https://i.ibb.co/T4674Kw/1200px-Spor-TV-2017-logo-svg.png" group-title="DEPORTES",Sportv 
+http://directo.ddns.me:33200/800yt/202020/33328
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR +1" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="DEPORTES",STAR +1
+http://directo.ddns.me:33200/800yt/202020/50006
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR +2" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="DEPORTES",STAR +2
+http://directo.ddns.me:33200/800yt/202020/50007
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR +3" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="DEPORTES",STAR +3
+http://directo.ddns.me:33200/800yt/202020/50009
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR +4" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="DEPORTES",STAR +4
+http://directo.ddns.me:33200/800yt/202020/50008
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR +5" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="DEPORTES",STAR +5
+http://directo.ddns.me:33200/800yt/202020/50481
+
+#EXTINF:-1 tvg-id="" tvg-name="TD+" tvg-logo="https://i.ibb.co/Zmrt5zF/2w-I2-B-TY-400x400.jpg" group-title="DEPORTES",TD+
+http://directo.ddns.me:33200/800yt/202020/30477
+
+#EXTINF:-1 tvg-id="" tvg-name="TD+2" tvg-logo="https://i.ibb.co/D4Ryh8M/1200px-TD-M-s-2-Logo-svg.png" group-title="DEPORTES",TD+2
+http://directo.ddns.me:33200/800yt/202020/30478
+
+#EXTINF:-1 tvg-id="I477.47486.schedulesdirect.org" tvg-name="Teletrak Chile (Op.1)" tvg-logo="http://www.teletrak.cl/imagenes/logo2.png" group-title="DEPORTES",Teletrak Chile (Op.1)
+http://directo.ddns.me:33200/800yt/202020/7009
+
+#EXTINF:-1 tvg-id="I477.47486.schedulesdirect.org" tvg-name="Teletrak Chile (Op.2)" tvg-logo="http://www.teletrak.cl/imagenes/logo2.png" group-title="DEPORTES",Teletrak Chile (Op.2)
+http://directo.ddns.me:33200/800yt/202020/15437
+
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports 1 Bolivia" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",Tigo Sports 1 Bolivia
+http://directo.ddns.me:33200/800yt/202020/3123
+
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports 2 Bolivia" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",Tigo Sports 2 Bolivia
+http://directo.ddns.me:33200/800yt/202020/3124
+
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports 3 Bolivia" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",Tigo Sports 3 Bolivia
+http://directo.ddns.me:33200/800yt/202020/7092
+
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Paraguay" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",Tigo Sports Paraguay
+http://directo.ddns.me:33200/800yt/202020/3122
+
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports+ Paraguay" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",Tigo Sports+ Paraguay
+http://directo.ddns.me:33200/800yt/202020/5875
+
+#EXTINF:-1 tvg-id="I603.106780.schedulesdirect.org" tvg-name="TNT Sports Argentina" tvg-logo="https://i.postimg.cc/y8YqmCkM/TN1.png" group-title="DEPORTES",TNT Sports Argentina
+http://directo.ddns.me:33200/800yt/202020/6464
+
+#EXTINF:-1 tvg-id="I603.106780.schedulesdirect.org" tvg-name="TNT Sports HD Argentina" tvg-logo="https://i.postimg.cc/y8YqmCkM/TN1.png" group-title="DEPORTES",TNT Sports HD Argentina
+http://directo.ddns.me:33200/800yt/202020/3109
+
+#EXTINF:-1 tvg-id="" tvg-name="TVC Deportes" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e1/TVC_Deportes_(2016-_).png" group-title="DEPORTES",TVC Deportes
+http://directo.ddns.me:33200/800yt/202020/13689
+
+#EXTINF:-1 tvg-id="I629.16275.schedulesdirect.org" tvg-name="TyC Sports" tvg-logo="http://1.bp.blogspot.com/-lfBqQgLIqeo/VkLMvxnL7ZI/AAAAAAAAS8I/0ZShko69LPA/s1600/zrtn_021p4fd1d019_tn.jpg" group-title="DEPORTES",TyC Sports
+http://directo.ddns.me:33200/800yt/202020/5582
+
+#EXTINF:-1 tvg-id="I629.16275.schedulesdirect.org" tvg-name="TyC Sports HD" tvg-logo="http://1.bp.blogspot.com/-lfBqQgLIqeo/VkLMvxnL7ZI/AAAAAAAAS8I/0ZShko69LPA/s1600/zrtn_021p4fd1d019_tn.jpg" group-title="DEPORTES",TyC Sports HD
+http://directo.ddns.me:33200/800yt/202020/3110
+
+#EXTINF:-1 tvg-id="I503.38683.schedulesdirect.org" tvg-name="Tudn 1" tvg-logo="https://i.ibb.co/FqbLQFT/wl-Z5-OQY1to32e-Yuj-OSo-RD3d-YF0v-X7be-MWHUCWc-U6-Wr5-x-Ft8-KK-LXz4-Hv-Qm-YR9-L0-SCA.png" group-title="DEPORTES",Tudn 1
+http://directo.ddns.me:33200/800yt/202020/33184
+
+#EXTINF:-1 tvg-id="I503.38683.schedulesdirect.org" tvg-name="Tudn 2" tvg-logo="https://i.ibb.co/FqbLQFT/wl-Z5-OQY1to32e-Yuj-OSo-RD3d-YF0v-X7be-MWHUCWc-U6-Wr5-x-Ft8-KK-LXz4-Hv-Qm-YR9-L0-SCA.png" group-title="DEPORTES",Tudn 2
+http://directo.ddns.me:33200/800yt/202020/33185
+
+#EXTINF:-1 tvg-id="" tvg-name="Tudn Extra" tvg-logo="https://pbs.twimg.com/profile_images/1163864477856620544/a4jUeZxm_400x400.jpg" group-title="DEPORTES",Tudn Extra
+http://directo.ddns.me:33200/800yt/202020/49383
+
+#EXTINF:-1 tvg-id="" tvg-name="Teledeporte" tvg-logo="" group-title="DEPORTES",Teledeporte
+http://directo.ddns.me:33200/800yt/202020/49493
+
+#EXTINF:-1 tvg-id="I633.87031.schedulesdirect.org" tvg-name="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",Win Sports
+http://directo.ddns.me:33200/800yt/202020/7715
+
+#EXTINF:-1 tvg-id="I633.87031.schedulesdirect.org" tvg-name="Win Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",Win Sports HD
+http://directo.ddns.me:33200/800yt/202020/3115
+
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports +" tvg-logo="https://i.postimg.cc/LXWfBjTb/Win-Sportsm.png" group-title="DEPORTES",Win Sports +
+http://directo.ddns.me:33200/800yt/202020/15348
+
+#EXTINF:-1 tvg-id="I1633.87031.schedulesdirect.org" tvg-name="Win Sports + (op2)" tvg-logo="https://i.postimg.cc/LXWfBjTb/Win-Sportsm.png" group-title="DEPORTES",Win Sports + (op2)
+http://directo.ddns.me:33200/800yt/202020/37305
+
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports + HD" tvg-logo="https://i.postimg.cc/LXWfBjTb/Win-Sportsm.png" group-title="DEPORTES",Win Sports + HD
+http://directo.ddns.me:33200/800yt/202020/15349
+
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports +FHD (conexiones rápidas)" tvg-logo="https://i.postimg.cc/LXWfBjTb/Win-Sportsm.png" group-title="DEPORTES",Win Sports +FHD http://directo.ddns.me:33200/800yt/202020/50262
+
+EXTINFEXTINF#EXTINF:-1 tvg-id="" tvg-name="Best Cable Sports Perú" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWXTSqbl-JssUfD_Ahkjm8gYQsYHkvS53ZDg&usqp=CAU" group-title="PERU",Best Cable Sports Perú
+http://directo.ddns.me:33200/800yt/202020/40718
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Perú" tvg-logo="https://1.bp.blogspot.com/-tqveO_lnwRA/WJIJ2Zp41SI/AAAAAAAA5fA/8pZXY7xmgkcAwcM-eCHsFYsX6WwIehXmACLcB/s1600/tv-peru.jpg" group-title="PERU",TV Perú
+http://directo.ddns.me:33200/800yt/202020/45815
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Perú Noticias" tvg-logo="https://1.bp.blogspot.com/-tqveO_lnwRA/WJIJ2Zp41SI/AAAAAAAA5fA/8pZXY7xmgkcAwcM-eCHsFYsX6WwIehXmACLcB/s1600/tv-peru.jpg" group-title="PERU",TV Perú Noticias
+http://directo.ddns.me:33200/800yt/202020/45816
+
+#EXTINF:-1 tvg-id="" tvg-name="Gol Peru" tvg-logo="https://2.bp.blogspot.com/-usJcxF6gJIg/WUVrMywkyzI/AAAAAAAAAi8/DV9fYjhJyKM5Qzd_HIJQKZ1aB-BXRi6CQCLcBGAs/s1600/gol%2Bperu.jpg" group-title="PERU",Gol Peru
+http://directo.ddns.me:33200/800yt/202020/14029
+
+#EXTINF:-1 tvg-id="" tvg-name="Gol Peru HD" tvg-logo="https://2.bp.blogspot.com/-usJcxF6gJIg/WUVrMywkyzI/AAAAAAAAAi8/DV9fYjhJyKM5Qzd_HIJQKZ1aB-BXRi6CQCLcBGAs/s1600/gol%2Bperu.jpg" group-title="PERU",Gol Peru HD
+http://directo.ddns.me:33200/800yt/202020/3098
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes Peru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ75cfIApQQZ8n_krw5Fpszu0ZurdEXEfAU0Q&usqp=CAU" group-title="PERU",Movistar Deportes Peru
+http://directo.ddns.me:33200/800yt/202020/3100
+
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="Movistar Deportes Peru (Op.2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ75cfIApQQZ8n_krw5Fpszu0ZurdEXEfAU0Q&usqp=CAU" group-title="PERU",Movistar Deportes Peru (Op.2)
+http://directo.ddns.me:33200/800yt/202020/3102
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ75cfIApQQZ8n_krw5Fpszu0ZurdEXEfAU0Q&usqp=CAU" group-title="PERU",Movistar Deportes
+http://directo.ddns.me:33200/800yt/202020/30360
+
+#EXTINF:-1 tvg-id="America.pe" tvg-name="America  TV" tvg-logo="https://media.tvalacarta.info/canales/256x256/americatvpe.png" group-title="PERU",America  TV
+http://directo.ddns.me:33200/800yt/202020/2398
+
+#EXTINF:-1 tvg-id="America.pe" tvg-name="America  TV HD" tvg-logo="https://media.tvalacarta.info/canales/256x256/americatvpe.png" group-title="PERU",America  TV HD
+http://directo.ddns.me:33200/800yt/202020/30721
+
+#EXTINF:-1 tvg-id="" tvg-name="Antares TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png" group-title="PERU",Antares TV
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1a66uUALudFEoDiO53in0v4PWoQW3jwEskQ&usqp=CAU" group-title="PERU",ATV
+http://directo.ddns.me:33200/800yt/202020/2399
+
+#EXTINF:-1 tvg-id="" tvg-name="BHTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwVd_YybMNGThemXEIqu3KkP0f9b6rGkvuA&usqp=CAU" group-title="PERU",BH TV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal iPe" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/db/Logo_Canal_IPe.png" group-title="PERU",Canal iPe
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal N" tvg-logo="https://cds2.canaln.pe/f/img/canaln.jpg" group-title="PERU",Canal N
+http://directo.ddns.me:33200/800yt/202020/30718
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Exitosa" tvg-logo="https://i.ibb.co/NyDTj2x/descarga.jpg" group-title="PERU",Canal Exitosa
+http://directo.ddns.me:33200/800yt/202020/30885
+
+#EXTINF:-1 tvg-id="" tvg-name="Cultura 24 TV" tvg-logo="https://yt3.ggpht.com/a-/AN66SAwkPHc5VDE3LK_GAqybAH7WiyBFuqWQUwRzWQ=s288-mo-c-c0xffffffff-rj-k-no" group-title="PERU",Cultura 24 TV
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
+
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Frecuencia Latina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNUJ997G8weFnkcC7Y7vNHX8wRifabtOEZw&usqp=CAU" group-title="PERU",Frecuencia Latina
+http://directo.ddns.me:33200/800yt/202020/2403
+
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Frecuencia Latina HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNUJ997G8weFnkcC7Y7vNHX8wRifabtOEZw&usqp=CAU" group-title="PERU",Frecuencia Latina HD
+http://directo.ddns.me:33200/800yt/202020/30886
+
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Frecuencia Latina FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNUJ997G8weFnkcC7Y7vNHX8wRifabtOEZw&usqp=CAU" group-title="PERU",Frecuencia Latina FHD
+http://directo.ddns.me:33200/800yt/202020/47818
+
+#EXTINF:-1 tvg-id="PeruMagico.pe" tvg-name="Peru Magico" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/per-mgico-en-vivo-1386.png" group-title="PERU",Peru Magico
+http://directo.ddns.me:33200/800yt/202020/30884
+
+#EXTINF:-1 tvg-id="" tvg-name="Mega TV Arequipa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFPmFJwikdR1a8boJ_pb17xKMc4Qn1KZKTBg&usqp=CAU" group-title="PERU",Mega TV Arequipa
+https://media2.cdnlayer.biz:8081/8008/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="PERU",Movistar Plus
+http://directo.ddns.me:33200/800yt/202020/2404
+
+#EXTINF:-1 tvg-id="" tvg-name="Ovación" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAh4V6cQXGZX_v2-Fopu7SMoo_PN8Bc1j7BQ&usqp=CAU" group-title="PERU",Ovación
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/931px-Panamericana-tv.svg.png" group-title="PERU",Panamericana
+http://directo.ddns.me:33200/800yt/202020/120
+
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="Panamericana HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/931px-Panamericana-tv.svg.png" group-title="PERU",Panamericana HD
+http://directo.ddns.me:33200/800yt/202020/30722
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="PERU",Movistar Plus
+http://directo.ddns.me:33200/800yt/202020/30719
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Cosmos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0YsZkahr1V19ouqu_RlDQrjfek4LGW05BEg&usqp=CAU" group-title="PERU",TV Cosmos
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TVpe" tvg-logo="https://i.postimg.cc/yYGh4r5t/tvpe1.jpg" group-title="PERU",TVpe
+https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TVpe Noticias" tvg-logo="https://i.postimg.cc/yYGh4r5t/tvpe1.jpg" group-title="PERU",TVpe Noticias
+https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Karibeña" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJmXjDO1cBUYAby_f9s910EuVc9IfGEnL-A&usqp=CAU" group-title="PERU",Karibeña
+http://directo.ddns.me:33200/800yt/202020/30980
+
+#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="Willax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="PERU",Willax
+http://directo.ddns.me:33200/800yt/202020/49298
